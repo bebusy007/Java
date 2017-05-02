@@ -1,4 +1,7 @@
 # Java
-2017年5月2日17:02:46
-2017年5月2日17:27:54
-2017年5月2日17:30:23
+#include<iostream>
+int main()
+{
+    printf("Hello World\n");
+    return 0;
+}
